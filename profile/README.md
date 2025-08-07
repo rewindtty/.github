@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <img style="max-width:400px;height:auto" src="https://www.rewindtty.dev/assets/logo-black.png" alt="rewindtty logo">
+    <img style="max-width:400px;height:auto" src="https://www.rewindtty.dev/assets/images/logo-black.png" alt="rewindtty logo">
   </picture>
 </p>
 

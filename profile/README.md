@@ -14,7 +14,7 @@
 
 rewindtty is an open-source organization focused on building powerful terminal session recording, analysis, and replay tools. Our mission is to help developers capture, analyze, and share their terminal workflows with precision timing and comprehensive insights.
 
-[![Discord](https://img.shields.io/discord/1470772941296894128?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/WgsVw69F)
+[![Discord](https://img.shields.io/discord/1470772941296894128?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/YrZPHAwMSG)
 
 ## 🚀 Featured Projects
 
